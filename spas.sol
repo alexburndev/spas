@@ -1,5 +1,7 @@
 /**
- *Submitted for verification at Etherscan.io on 2019-10-13
+*https://github.com/alexburndev/spas/blob/master/spas.sol
+*
+*Developed by Alex Burn
 */
 
 contract Token {
